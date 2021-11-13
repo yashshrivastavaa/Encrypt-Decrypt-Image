@@ -24,10 +24,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+# 📃 Output
+
+<div align= "center"><img src="Output/welcome.jpg" width="350" height="250"/>
+
+</div> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align= "center"><img src="Output/selectImage.jpg" width="350" height="250"/>
+
+</div> 
       
 ##  📝  Feedback & Suggestion
 
-  - 📫 You can reach me by: 
+  - 📫 Contact Me On: 
     - [Linkedin](https://www.linkedin.com/in/yash-shrivastava-a116a81b3/)
     - [Twitter](https://twitter.com/BitterAsTruth)
     - [Gmail](mailto:shrivastavayash92@gmail.com)
